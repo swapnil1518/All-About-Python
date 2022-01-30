@@ -1,0 +1,38 @@
+
+# Python Libaries.
+
+
+
+
+## Top Python Libraries.
+
+1. Numpy 
+2. Pandas
+
+
+## Numpy
+
+It is used for numerical Python. It is used to generate some random numbers. It is also used for work with Arrays.
+
+Q. How to install in your system ?
+
+A. Open command prompt and just type
+- pip install numpy
+Now how to use it in your IDE ?
+- import numpy as np 
+
+## Pandas
+
+It is used mostly in Datascience for data manipulation.
+
+Q. How to install in your system ?
+ 
+A. Open command prompt and just type
+
+- pip install Pandas
+
+Now how to use it in your IDE ?
+
+- import pandas as pd 
+
+

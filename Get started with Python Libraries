@@ -36,3 +36,18 @@ Now how to use it in your IDE ?
 - import pandas as pd 
 
 
+## Matplotlib
+
+Q. How to install in your system ?
+ 
+A. Open command prompt and just type
+
+- pip install matplotlib
+
+Now how to use it in your IDE ?
+
+- import matplotlib.pyplot as plt
+
+
+
+

@@ -31,6 +31,11 @@ Now how to use it in your IDE ?
 It is used mostly in Datascience for data manipulation.
 Suppose we wanto convert a list into a data frame. here we are manipulating the data.
 
+In the real world, a Pandas DataFrame will be created by loading the datasets from existing storage, storage can be SQL Database, CSV file, and Excel file. 
+Pandas DataFrame can be created from the lists, dictionary, and from a list of dictionary etc. 
+
+
+
 Q. How to install in your system ?
  
 A. Open command prompt and just type

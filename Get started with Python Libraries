@@ -15,7 +15,7 @@
 It is used for numerical Python. 
 It is used to generate some random numbers. 
 It is also used for work with Arrays. 
-Performs some mathematical and logical operation on arrays.
+Performs some mathematical and logical operation on Arrays.
 
 Q. How to install in your system ?
 
@@ -29,6 +29,7 @@ Now how to use it in your IDE ?
 ## Pandas
 
 It is used mostly in Datascience for data manipulation.
+Suppose we wanto convert a list into a data frame. here we are manipulating the data.
 
 Q. How to install in your system ?
  

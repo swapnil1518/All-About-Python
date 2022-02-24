@@ -12,7 +12,10 @@
 
 ## Numpy
 
-It is used for numerical Python. It is used to generate some random numbers. It is also used for work with Arrays.
+It is used for numerical Python. 
+It is used to generate some random numbers. 
+It is also used for work with Arrays. 
+Performs some mathematical and logical operation on arrays.
 
 Q. How to install in your system ?
 
@@ -20,6 +23,8 @@ A. Open command prompt and just type
 - pip install numpy
 Now how to use it in your IDE ?
 - import numpy as np 
+
+
 
 ## Pandas
 

@@ -1,3 +1,5 @@
+# possible only in different class
+
 class Student:
     def __init__(self,m1,m2):
         self.m1 = m1

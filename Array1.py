@@ -1,5 +1,5 @@
 import array
-
+store =0
 val = array.array('i',[4,87,23,90,32,23])
 print(val)
 for i in range(7):
